@@ -1,11 +1,11 @@
-# 📝 E-commerce Sales Chatbot - Project Report
+#  E-commerce Sales Chatbot - Project Report
 
-## 📌 Project Objective
+##  Project Objective
 The goal of this project is to design and implement a comprehensive chatbot system that facilitates product search and interaction for an e-commerce platform. The chatbot interacts with a mock inventory backend to provide product details and conversational functionality.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### 1. Frontend (Client)
 - Built with **React**.
@@ -26,7 +26,7 @@ The goal of this project is to design and implement a comprehensive chatbot syst
 
 ---
 
-## 🔧 Technology Stack
+##  Technology Stack
 
 | Layer      | Technology                |
 |------------|---------------------------|
@@ -38,7 +38,7 @@ The goal of this project is to design and implement a comprehensive chatbot syst
 
 ---
 
-## ⚙️ Features Implemented
+## Features Implemented
 
 - Searchable product catalog via chatbot
 - Chat interface with user input and timestamps
@@ -48,7 +48,7 @@ The goal of this project is to design and implement a comprehensive chatbot syst
 
 ---
 
-## 🚧 Challenges & Solutions
+## Challenges & Solutions
 
 ### 1. **Challenge**: Ensuring real-time interaction between frontend and backend.
 - **Solution**: Used `axios` for seamless HTTP requests; enabled CORS in FastAPI.
@@ -64,7 +64,7 @@ The goal of this project is to design and implement a comprehensive chatbot syst
 
 ---
 
-## 📂 Folder Structure Overview
+## Folder Structure Overview
 
 ```
 ecommerce-sales-chatbot/
@@ -85,6 +85,6 @@ ecommerce-sales-chatbot/
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates a fully functional prototype for an e-commerce chatbot system using modern full-stack development tools. It simulates a complete customer journey from product inquiry to interaction logging.
