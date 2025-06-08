@@ -73,7 +73,7 @@ ecommerce-sales-chatbot/
 │   ├── mock_data.py
 │   ├── database.py
 │   ├── models.py
-│   └── products.db
+│   └── life.db
 ├── frontend/
 │   ├── index.html
 │   ├── src/
